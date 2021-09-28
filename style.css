@@ -1,0 +1,12 @@
+h3{
+    font-size:25px !important;
+}
+
+.btn-warning:hover{
+    background-color: lightblue;
+}
+canvas{
+    animation-name: example;
+    animation-duration: 4s;
+    animation-iteration-count: infinite;
+    margin-left: 590px;
